@@ -6,8 +6,8 @@ Here is the [Google Collab](https://colab.research.google.com/drive/1ZEuJRh7C8Cl
 
 ## What this doc covers
 
-1. Using Exa's OpenAI wrapper to find relevant webpages for a image generation quey and execute a RAG query to generate a prompt
-2. Making Prompting descisions that align with Exa's [prompting guide](https://docs.exa.ai/reference/prompting-guide)
+1. Using Exa's OpenAI wrapper to find relevant webpages for a image generation query and execute a RAG query to generate a prompt
+2. Making prompting descisions that align with Exa's [prompting guide](https://docs.exa.ai/reference/prompting-guide)
 
 ---
 
@@ -134,7 +134,7 @@ Taylor Swift is poised gracefully beside an ancient, moss-covered tree, her gaze
 
 In the background, ethereal light creates dappled patterns on the forest floor, where whimsical woodland creatures – like rabbits, deer, and delicate butterflies – peacefully wander. The air is filled with shimmering particles, almost like magic dust, enhancing the dreamlike quality of the setting. This enchanting scene captures Taylor Swift not just as a musician, but as a mythical muse, deeply connected with nature and creativity."
 
-![Example Output](Taylor.png)
+![Example Output](taylor.png)
 
 ## Example Output 3
 
