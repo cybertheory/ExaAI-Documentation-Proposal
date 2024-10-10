@@ -1,4 +1,4 @@
-#Documentation Example Ideas for Exa
+# Documentation Example Ideas for Exa
 
 I chose to implement [idea two](#idea-2-a-tutorial-for-building-a-prompt-enhancer-for-image-generation) as a tutorial.
 
