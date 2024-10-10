@@ -1,5 +1,5 @@
 # Dall-E 3 Image Generation Enhancer with Exa
-This is a tutorial for RAG with Exa results in order to enhance prompts for image generation with Dall-E 3.
+This is a tutorial for RAG with Exa results, in order to enhance prompts for image generation with Dall-E 3.
 
 Here is the [Google Collab](https://colab.research.google.com/drive/1ZEuJRh7C8ClLYn4vafyu8Ae6hWV9JaB8?usp=sharing)
 
