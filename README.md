@@ -2,7 +2,7 @@
 
 I chose to implement [idea two](#idea-2-a-tutorial-for-building-a-prompt-enhancer-for-image-generation) as a tutorial.
 
-> I have contributed to Exa before! On May 23rd of 2024 I had suggested to Jefferey to include an index for Exa - it would improve transparency - he liked the idea. According to Wayback Machine, the first time the page was indexed on May 25th of 2024.😊
+> I have contributed to Exa before! On May 23rd of 2024 I had suggested to Jefferey to include an [index](https://docs.exa.ai/reference/the-exa-index) for Exa - it would improve transparency - he liked the idea. According to Wayback Machine, the first time the page was indexed on May 25th of 2024.😊
 
 ## Idea 1: A Tutorial on People Search for Co-Founder Matching or Networking
 
