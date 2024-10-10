@@ -100,12 +100,21 @@ response = openai_client.images.generate(
 image_url = response.data[0].url
 ```
 
-## Display the image (if in a notebook)
+## Display the image
 Let's see what we generated.
 ```python
+# if in notebook
 from IPython.display import Image
 
 Image(url=image_url)
+#else
+#run 'pip install pillow requests' and then run the following:
+from PIL import Image
+import requests
+from io import BytesIO
+
+response = requests.get(url)
+img = Image.open(BytesIO(response.content))
 ```
 
 ## Example Output 1
